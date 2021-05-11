@@ -43,7 +43,7 @@
     "electron-osx-sign": "0.4.10",
     "fs-extra-p": "^4.6.0",
     "gitbook-plugin-footer": "^0.0.6",
-    "hosted-git-info": "^2.6.0",
+    "hosted-git-info": "^2.8.9",
     "iconv-lite": "^0.4.23",
     "ini": "^1.3.5",
     "is-ci": "^1.1.0",
